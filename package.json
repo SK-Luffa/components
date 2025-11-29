@@ -3,5 +3,5 @@
     "docs:dev": "vitepress dev components",
     "docs:build": "vitepress build components",
     "docs:preview": "vitepress preview components"
-  },
+  }
 }
