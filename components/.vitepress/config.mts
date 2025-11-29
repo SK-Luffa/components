@@ -1,9 +1,9 @@
 import { defineConfig } from 'vitepress'
 
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "My Awesome Project",
   description: "A VitePress Site",
+  base: '/components/', // 如果仓库名是 components；请替换为你的实际仓库名
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
