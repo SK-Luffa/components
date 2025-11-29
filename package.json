@@ -4,6 +4,4 @@
     "docs:build": "vitepress build components",
     "docs:preview": "vitepress preview components"
   },
-  "ourDir": "../public",
-  "base": "/components/"
 }
