@@ -136,3 +136,5 @@ const onSelected = () => {
 
 - 后续 因为我们在子组件内写了slot，并且在option上传入option属性绑定的值  ，那么通过事件冒泡，最终会触发option的click将子组件的option的值传递到value  
 
+## 实现： 如何以当前组件为基础实现一个相同的，但是多选的组件呢？
+
