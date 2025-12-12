@@ -12,10 +12,12 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
         items: [
 
-          { text: '单个弹窗修改组件', link: '/components/Modal-single/index.md' }
+          { text: '单个弹窗修改组件', link: '/components/Modal-single/index.md' },
+          { text: '单选卡片', link: '/components/option-Card/index.md' }
+
+          
         ]
       }
     ],
