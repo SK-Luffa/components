@@ -8,7 +8,6 @@ hero:
   tagline: "拿去用"
   actions:
     - theme: 查看
-      text: 查看
       link: /components/Modal-single/index.md
    
 
