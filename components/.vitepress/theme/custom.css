@@ -1,0 +1,10 @@
+.VPHero .actions .VPButton {
+  background: linear-gradient(90deg, #add8e6, #ffffff);
+  border: 1px solid #bcd3e7;
+  transition: all 0.2s ease-in-out;
+}
+
+.VPHero .actions .VPButton:hover {
+  background: linear-gradient(90deg, #a6d3e9, #ffffff);
+  border-color: #94c3df;
+}
